@@ -1,0 +1,12 @@
+LAB: DHCP, DNS and ACLs
+This lab shows an understanding of Dynamic Host Configuration Protocol (DHCP),
+Domain Name System (DNS) and Access Control Lists(ACL). 
+the configurations in this lab allow for pings between hosts using their
+human readable names (PC1, PC2, etc). It also allows for dynamic assignment of network
+configurations such as ip address, domain name, default-gateway. The lab also filters
+and manages access to specified networks or hosts.
+There is more to the lab and it is a good proof of various concepts.
+
+COURTESY - frank.io
+For full documentation visit the link below:
+medium.com/@frankikwuegbu1/lab-dhcp-dns-and-acls-7f6992ce87a5

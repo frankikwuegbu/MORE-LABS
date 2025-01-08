@@ -1,0 +1,11 @@
+LAB - VLANS on a Layer 3 Switch
+This lab looks to show an understanding of local networks, broadcast domains and
+how devices connected to a single switch can be "separated" into different broadcast
+domains(VLAN). It also shows an understanding of the need for a layer 3 device often
+a router to facilitate communication between networks. But more importantly it shows
+how a special type of switch can perform those layer 3 functionalities when configured
+correctly. 
+
+COURTESY - frank.io
+For full documentation visit the link below:
+medium.com/@frankikwuegbu1/inter-vlan-routing-using-svis-the-two-for-one-special-5ec4ba33d1d4

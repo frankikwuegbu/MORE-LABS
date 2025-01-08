@@ -1,0 +1,9 @@
+LAB - VLAN, ROAS, ETHERCHANNEL
+This lab shows an understanding of vitual lans which is used to seperate devices on
+a switch into essentially, different networks. It uses the modern approach of Router On 
+A Stick(ROAS) to establish a connection between these logically seperated networks and 
+a single router interface via subinterfaces. It also adapts Ether Channel which makes
+multiple physical switch interfaces act like a single port channel in a bid to increase
+bandwidth and improve general network performance.
+
+COURTESY - frank.io
